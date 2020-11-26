@@ -8,11 +8,11 @@ $nimi = "Rain";
 $synniaasta = "1994";
 $tahtkuju = "kaljukits";
 
-echo "Minu nimi on $nimi. \n Olen sündinud aastal $synniaasta. \n Minu tähtkuju on $tahtkuju. \n";
+echo "$nimi"."<br>"."$synniaasta"."<br>"."$tahtkuju"."<br>";
 
 echo "\"It’s My Life\" – Dr. Alban \n";
 
-echo "(\(\ \n";
-echo "( -.-) \n";
+echo '<br>'.'(\(\<br>';
+echo "( -.-) "."<br>";
 echo 'o_(")(")';
 ?>
