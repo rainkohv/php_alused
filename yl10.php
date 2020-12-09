@@ -1,7 +1,7 @@
 
 <html>
 <menu>
-    <a href="yl10.php">Avaleht</a>
+    <a href="yl10.php">yl10</a>
     <a href="yl10.php?leht=yl1">yl1</a>
     <a href="yl10.php?leht=yl2">yl2</a>
 </menu>
